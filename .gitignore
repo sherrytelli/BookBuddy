@@ -3,3 +3,6 @@
 
 #dataset
 /goodbooks-10k
+
+#preprocessed dataset
+/bookbuddy_artifacts
