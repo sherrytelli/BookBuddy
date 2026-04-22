@@ -165,3 +165,12 @@ The Hybrid model is designed specifically to stop this. By applying the **Multip
 
 **3. Qualitative Cohesion over Raw Accuracy**
 The slight reduction in NDCG is the accepted "tax" for adding an educational safety rail. While the pure MLP wins on strict historical prediction, the Hybrid engine wins on **qualitative cohesion**. It ensures that the top recommendations are not just topically interesting, but fundamentally readable for that specific user, solving the core problem BookBuddy set out to fix.
+
+---
+
+## 📜 Acknowledgments & Citation
+
+This project was built utilizing the **goodbooks-10k** dataset. If you build upon or reference this work, please ensure you properly attribute the original creator of the dataset:
+
+> **Zając, Zygmunt (2017).** *Goodbooks-10k: a new dataset for book recommendations.* FastML.  
+> Dataset Repository: [zygmuntz/goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k)
